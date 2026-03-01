@@ -17,8 +17,8 @@ Its download link is：https://github.com/mqp2259/EdmCrack600
 
 <img width="2530" height="1427" alt="图片2" src="https://github.com/user-attachments/assets/7364fc53-1c7f-484f-8858-de099bbe3dd4" />
 
-####  This warehouse only provides complete model code files, which can be directly loaded into the framework of MMSegmentation v1.2.0 for paper reproduction, training and verification. Complete data preprocessing configuration, dependency library version information, and detailed experimental configuration can be found in this paper, but they are not included in this warehouse due to complex code library dependencies or data permission restrictions.
- **For access to complete code, data or model retraining, please contact the author's mailbox.**    
+This warehouse only provides complete model code files, which can be directly loaded into the framework of MMSegmentation v1.2.0 for paper reproduction, training and verification. Complete data preprocessing configuration, dependency library version information, and detailed experimental configuration can be found in this paper, but they are not included in this warehouse due to complex code library dependencies or data permission restrictions.
+For access to complete code, data or model retraining, please contact the author's mailbox.    
 
 
  # License
